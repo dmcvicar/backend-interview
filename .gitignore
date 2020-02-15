@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+django_api/db.sqlite3
+django_api/django_api/__pycache__
+django_api/core/__pycache__
